@@ -16,7 +16,7 @@ def strong_password(length):
 
 
 # ===== MENU =====
-print("🔐 PASSWORD GENERATOR")
+print("PASSWORD GENERATOR")
 print("1. Weak Password")
 print("2. Medium Password")
 print("3. Strong Password")
@@ -50,5 +50,6 @@ else:
 # copy to clipboard
 pyperclip.copy(password)
 
-print("\n✅ Generated Password:", password)
-print("📋 Password copied to clipboard!")
+print("\nGenerated Password:", password)
+
+print("Password copied to clipboard!")
