@@ -88,7 +88,7 @@ This project helps you practice:
 
 ---
 
-## Author
+##Made by
 
 Himanshu Tyagi
 
