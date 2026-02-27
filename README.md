@@ -92,7 +92,4 @@ This project helps you practice:
 
 Himanshu Tyagi
 
----
-
-If you find this project helpful, consider giving it a star.
-
+Thank You 
